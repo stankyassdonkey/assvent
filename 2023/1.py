@@ -1,5 +1,3 @@
-import os
-
 file = open('2023/1.txt', 'r')
 input = file.read()
 lines = input.split("\n")

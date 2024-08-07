@@ -1,0 +1,1 @@
+game_num, sets = string.split(':')[0], string.split(':')[1]
